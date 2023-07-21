@@ -28,3 +28,5 @@ function maxRot(n) {
   }
   return Math.max.apply(null, arr);
 }
+
+// or 
